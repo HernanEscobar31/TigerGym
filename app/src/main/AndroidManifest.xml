@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.tigergym">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TigerGym"
+        tools:targetApi="31">
+        <activity
+            android:name=".crearCuentaU"
+            android:exported="false" />
+        <activity
+            android:name=".loginUFire"
+            android:exported="false" />
+        <activity
+            android:name=".ubicacionGPS"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAxN6q6LQRvgGHA7Vg7hH2Tcbu86oQ7yFI" />
+
+        <activity
+            android:name=".UbicacionGPS"
+            android:exported="false" />
+        <activity
+            android:name=".scannerQR"
+            android:exported="false" />
+        <activity
+            android:name=".menu_usuario"
+            android:exported="false" />
+        <activity
+            android:name=".cambios"
+            android:exported="false" />
+        <activity
+            android:name=".bajas"
+            android:exported="false" />
+        <activity
+            android:name=".altas"
+            android:exported="false" />
+        <activity
+            android:name=".menu_adminstrador"
+            android:exported="false" />
+        <activity
+            android:name=".menuAdm"
+            android:exported="false" />
+        <activity
+            android:name=".loginAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".menu"
+            android:exported="false" />
+        <activity
+            android:name=".nuevoC"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

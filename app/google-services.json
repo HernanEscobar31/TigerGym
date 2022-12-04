@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2324516784",
+    "project_id": "tigergym-4971c",
+    "storage_bucket": "tigergym-4971c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2324516784:android:14ef579b677b0b78469075",
+        "android_client_info": {
+          "package_name": "com.example.tigergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2324516784-gpcld06bolio0g599ar5dvl5e7seq0rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpnkjJyn3HZjdvbxjG4iQrREOF73bZR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2324516784-gpcld06bolio0g599ar5dvl5e7seq0rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

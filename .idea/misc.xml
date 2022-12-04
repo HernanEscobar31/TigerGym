@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_altas.xml" value="0.25" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_bajas.xml" value="0.22" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_cambios.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_crear_cuenta_u.xml" value="0.203125" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_haltas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_login_admin.xml" value="0.203125" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_login_ufire.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_menu2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_menu_adm.xml" value="0.25" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_menu_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_menu_adminstrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_menu_usuario.xml" value="0.22" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_nuevo_c.xml" value="0.25" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_scanner_qr.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/layout/activity_ubicacion_gps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/menu/overflow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/escob/AndroidStudioProjects/TigerGym/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
